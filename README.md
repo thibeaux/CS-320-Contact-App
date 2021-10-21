@@ -1,1 +1,7 @@
 # CS-320-Contact-App
+### How can I ensure that my code, program, or software is functional and secure?
+I can use the JUnit tests to test the integrity of the data and to test for invalid data. I also ensure the quality of the services that were made in ContactServices.java. This is done by testing that two or more items can be added to the list of contacts, update one of the items, and then delete one of the items. 
+### How do I interpret user needs and incorporate them into a program?
+The user's needs was established by the requirments given to me. If you see in Contacts.java I describe what each item that makes up a contacty should look like. I also added a functions that allows a user to add contacts to an array, update an item in an array, delete items from an array, and display the contacts list. This should meet the basic needs of any user looking to use the Contact object as an array of contactd. 
+### How do I approach designing software?
+I approached the design of the software by firsrt reviewing the requirements described to me. From there I started to write and describe the Contact class based on what I read in the requirements. Once the Contact class was built. I make a test for it to make sure the code works and that the coverage of the tests are 100% or as close as possible. The way I ensure that everyline of code is executed in the test is by executing every outcome of every condition. I know what valid data looks like, and what the invalid data looks like. So I just describe these two kinds of inputs inside of the unit tests.  
